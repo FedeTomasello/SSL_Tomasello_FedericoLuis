@@ -2,5 +2,5 @@
 
 int main (int argc, char *argv[])
 {
-    printf("Hola mundo, este es mi primer codigo para Sintaxis!\n");
+    printf("Hola mundo, este es mi primer codigo para Sintaxis!!\n");
 }
